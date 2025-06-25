@@ -10,9 +10,6 @@ Geophysics, Induced Seismicity, Machine Learning
 
 ## Contact:
 Email: donghr@mail.ustc.edu.cn
-## 
-## Favorite Saying:
-Try harder!
 
 <!---
 Haoran-DONG/Haoran-DONG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
