@@ -1,7 +1,7 @@
 # I'm Haoran Dong, nice to meet you!    :)
 
 ## Education:
-**PhD. candidate**: Geophysics, USTC, 2023-present.    
+**Ph.D. candidate**: Geophysics, USTC, 2023-present.    
 **Undergraduate**: Geophysics, JLU, 2019-2023.
 ## Research: 
 Geophysics, Induced Seismicity, Machine Learning
